@@ -36,23 +36,23 @@ https://learn.grasshopper.app/
 
 # לימוד לפי שפות:
 ### ג'אווה סקריפט - javascript:
-https://www.learn-js.org/
-https://learnjavascript.online/
-https://www.w3schools.com/js/
-https://www.30secondsofcode.org/js/p/1
+https://www.learn-js.org/<br>
+https://learnjavascript.online/<br>
+https://www.w3schools.com/js/<br>
+https://www.30secondsofcode.org/js/p/1<br>
 
 ### פייתון:
-https://www.learnpython.org/
-https://www.30secondsofcode.org/python/p/1
-https://www.codecademy.com/learn/learn-python
-https://www.w3schools.com/python/
+https://www.learnpython.org/<br>
+https://www.30secondsofcode.org/python/p/1<br>
+https://www.codecademy.com/learn/learn-python<br>
+https://www.w3schools.com/python/<br>
 ### C++:
-https://www.learn-cpp.org/
+https://www.learn-cpp.org/<br>
 ### shell - (bash - תואם ל-powershell):
-https://www.learnshell.org/
-https://www.shellscript.sh/
-https://www.udemy.com/course/shell-scripting-i/
-https://guide.bash.academy/
+https://www.learnshell.org/<br>
+https://www.shellscript.sh/<br>
+https://www.udemy.com/course/shell-scripting-i/<br>
+https://guide.bash.academy/<br>
 
 # בניית הרצת ואחסון אתרים ואפליקציות ווב:
 וורדפרס<br>
